@@ -29,7 +29,7 @@ class Parent {
         cin>>pass;
         cout<<"The Password passed to the base class is "<<pass<<endl;
     }
-     // write your code here
+     
     
 };
  
@@ -40,12 +40,10 @@ class Child : public Parent
      Child(){
          cout<<"The Password "<<pass<<" is passed through the derived class constructor"<<endl;
      }
-     // write your code here 
  };
  int main()
  {
      Child obj;
-     // write your code here
  }
 ```
 
