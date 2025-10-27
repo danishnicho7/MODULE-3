@@ -15,7 +15,7 @@ To wite a c++ program to find simple & compound interest by using Hierarchical I
 8. End the program.
 
 ## Program:
-```
+```cpp
 #include <iostream>  
 #include<cmath>
 using namespace std;  
