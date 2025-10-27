@@ -20,7 +20,7 @@ To write a C++ program to display the Employee details using the multiple inheri
 10. End the program.
 
 ## Program:
-```
+```cpp
 #include <iostream>
 using namespace std;
 class base1
@@ -30,7 +30,6 @@ class base1
         void get1(){
             cin>>eid;
         }
-   //write your code here 
 
 };
 class base2
@@ -41,7 +40,6 @@ class base2
         void get2(){
             cin>>name>>desig;
         }
-    //write your code here 
 };
 class derive1 : public base1, public base2
 {
@@ -51,7 +49,6 @@ class derive1 : public base1, public base2
             cout<<" Employee Name : "<<name<<endl;
             cout<<" Employee Designation : "<<desig<<endl;
         }
-    //write your code here 
 };
 int main ()
 {
@@ -59,7 +56,6 @@ int main ()
     obj.get1();
     obj.get2();
     obj.display();
- //write your code here 
  return 1;   
 }
 ```
