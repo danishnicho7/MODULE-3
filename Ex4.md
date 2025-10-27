@@ -16,7 +16,7 @@ To write a C++ program to pass a password (Admin@123 )to the parameterized const
 9. End the program.
 
 ## Program:
-```
+```cpp
 #include<iostream>
 using namespace std;
  
