@@ -15,7 +15,7 @@ To write a c++ program to find difference & quotient  of two numbers using Hiera
 8. End the program.
 
 ## Program:
-```
+```cpp
 #include<iostream>
 using namespace std;
 class Base
