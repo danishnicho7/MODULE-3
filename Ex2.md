@@ -16,7 +16,7 @@ To write a program to implement protected member with integer values
 9. End the program.
 
 ## Program:
-```
+```cpp
 #include <iostream>
 using namespace std;
 
