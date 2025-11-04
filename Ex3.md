@@ -1,5 +1,6 @@
 # Ex.No:3
 # Ex.Name: Write a c++ program to find difference & quotient  of two numbers using Hierarchical inheritance
+## Date:21/08/25
 
 ## Aim:
 To write a c++ program to find difference & quotient  of two numbers using Hierarchical inheritance
