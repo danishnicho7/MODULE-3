@@ -1,5 +1,6 @@
 # Ex.No:2
 # Ex.Name: Write a program to implement protected member with integer values?
+## Date:21/08/25
 
 ## Aim:
 To write a program to implement protected member with integer values
